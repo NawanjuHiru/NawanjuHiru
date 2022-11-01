@@ -32,7 +32,9 @@ I'm Backend Developer 💻.</b></h1></hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/laravel-original-wordmark.svg" title="Laravel" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/flutter-original-wordmark.svg" title="Flutter" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/dart-original-wordmark.svg" title="Dart" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/laravel-plain-wordmark.svg" title="Laravel" **alt="Git" width="40" height="40"/>&nbsp;
 </div><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NawanjuHiru&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
