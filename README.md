@@ -4,9 +4,9 @@
 <h1 align="center"><b>Hi 👋🏻, I'm Hiruni Nawanjana<br><br>
 I'm Backend Developer 💻.</b></h1></hr>
 			
-📚 I am currently an Software Engineering undergraduate student in the Sri Lanka Institute of Information Technology(SLIIT)
+📚 I am currently a Software Engineer at the SwizTech Solutions (Pvt) Ltd
 
-🌱 I’m currently learning Nodejs
+🌱 I’m currently learning Spring Boot
 
 📫 How to reach me nawanjuhiru2000@gmail.com<br><br>
 
