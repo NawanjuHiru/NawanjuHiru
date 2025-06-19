@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center"><b>Hi 👋🏻, I'm Hiruni Nawanjana<br><br>
-I'm Backend Developer 💻.</b></h1></hr>
+I'm a Backend Developer 💻.</b></h1></hr>
 			
 📚 I am currently a Software Engineer at the SwizTech Solutions (Pvt) Ltd
 
